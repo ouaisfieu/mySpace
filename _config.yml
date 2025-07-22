@@ -1,0 +1,5 @@
+title: "MySpace Revival"
+description: "Micro‑site citoyen – Campagne « En quelques clics, vraiment ? »"
+theme: minima
+plugins:
+  - jekyll-feed
